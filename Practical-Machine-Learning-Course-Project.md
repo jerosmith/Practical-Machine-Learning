@@ -1,6 +1,8 @@
 # Practical Machine Learning Course Project
+Jerome Smith  
 2nd February, 2016  
 
+Github repo: https://github.com/jerosmith/Practical-Machine-Learning
 
 ### Executive Summary
 
@@ -281,6 +283,7 @@ Clearly the random forests model exhibits a much greater accuracy than the other
 Therefore we chose the model built with random forests.
 
 The average accuracy of the chosen model allows us to estimate the out-of-sample error: 0.36%.
+
 
 ### Validation of Chosen Model
 

@@ -1,12 +1,13 @@
 ---
 title: "Practical Machine Learning Course Project"
-author: 
+author: "Jerome Smith"
 date: "2nd February, 2016"
 output: 
   html_document: 
     keep_md: yes
 ---
 
+Github repo: https://github.com/jerosmith/Practical-Machine-Learning
 
 ### Executive Summary
 
